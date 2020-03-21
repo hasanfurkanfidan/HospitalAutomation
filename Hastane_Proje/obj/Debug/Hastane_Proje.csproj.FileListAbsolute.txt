@@ -1,0 +1,39 @@
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.exe.config
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.exe
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.pdb
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Form1.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Properties.Resources.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.exe
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.pdb
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmbilgiduzenle.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmDoktorDetay.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmdoktorgiris.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmhastadetay.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmHastaGiris.resources
+C:\Users\Furkan\Desktop\udemy projeler\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmHastaKayit.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.exe.config
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.exe
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\bin\Debug\Hastane_Proje.pdb
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Form1.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmbilgiduzenle.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.frmbrans.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmDoktorDetay.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmdoktorduzenle.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmdoktorgiris.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmdoktorpaneli.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmduyurular.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmhastadetay.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmHastaGiris.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.FrmHastaKayit.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.frmrandevulistesi.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmsekreterdetay.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Frmsekretergiris.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.exe
+C:\Users\Furkan\Desktop\Hastane Otomasyon Sistemi\Hastane_Proje\Hastane_Proje\obj\Debug\Hastane_Proje.pdb

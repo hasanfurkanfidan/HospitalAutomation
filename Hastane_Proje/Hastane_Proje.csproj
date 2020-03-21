@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B806E96E-8C54-4272-8132-E83EC081A5B2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hastane_Proje</RootNamespace>
+    <AssemblyName>Hastane_Proje</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmbilgiduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmbilgiduzenle.Designer.cs">
+      <DependentUpon>Frmbilgiduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmbrans.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmbrans.Designer.cs">
+      <DependentUpon>frmbrans.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDoktorDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDoktorDetay.Designer.cs">
+      <DependentUpon>FrmDoktorDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdoktorduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdoktorduzenle.Designer.cs">
+      <DependentUpon>Frmdoktorduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdoktorgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdoktorgiris.Designer.cs">
+      <DependentUpon>Frmdoktorgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmdoktorpaneli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmdoktorpaneli.Designer.cs">
+      <DependentUpon>Frmdoktorpaneli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmduyurular.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmduyurular.Designer.cs">
+      <DependentUpon>Frmduyurular.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmhastadetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmhastadetay.Designer.cs">
+      <DependentUpon>Frmhastadetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHastaGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHastaGiris.Designer.cs">
+      <DependentUpon>FrmHastaGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHastaKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHastaKayit.Designer.cs">
+      <DependentUpon>FrmHastaKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrandevulistesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrandevulistesi.Designer.cs">
+      <DependentUpon>frmrandevulistesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmsekreterdetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmsekreterdetay.Designer.cs">
+      <DependentUpon>Frmsekreterdetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmsekretergiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmsekretergiris.Designer.cs">
+      <DependentUpon>Frmsekretergiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sqlbaglantisi.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmbilgiduzenle.resx">
+      <DependentUpon>Frmbilgiduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmbrans.resx">
+      <DependentUpon>frmbrans.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDoktorDetay.resx">
+      <DependentUpon>FrmDoktorDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdoktorduzenle.resx">
+      <DependentUpon>Frmdoktorduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdoktorgiris.resx">
+      <DependentUpon>Frmdoktorgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmdoktorpaneli.resx">
+      <DependentUpon>Frmdoktorpaneli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmduyurular.resx">
+      <DependentUpon>Frmduyurular.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmhastadetay.resx">
+      <DependentUpon>Frmhastadetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHastaGiris.resx">
+      <DependentUpon>FrmHastaGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHastaKayit.resx">
+      <DependentUpon>FrmHastaKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrandevulistesi.resx">
+      <DependentUpon>frmrandevulistesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmsekreterdetay.resx">
+      <DependentUpon>Frmsekreterdetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmsekretergiris.resx">
+      <DependentUpon>Frmsekretergiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
